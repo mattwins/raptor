@@ -1,0 +1,13 @@
+body {
+  background : #feeedc;
+	font-size: 11px;
+	padding: 20px 0 40px; }
+
+p {
+	border: 1px solid #666;
+	overflow: hidden;
+	padding: 10px 0;
+	text-align: center; }
+
+/*.container_16 {
+  background: #feeedc url(/images/16_col.gif) repeat-y; }*/
